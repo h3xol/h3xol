@@ -3,8 +3,8 @@
 <table align="center">
   <tr>
     <td>
-		<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
-			<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/998278781804490752)](https://discord.com/users/998278781804490752)" alt="Discord Presence" align="center">
+		<a href="https://discord.com/users/998278781804490752" target="_blank" rel="nofollow">
+			<img src="https://lanyard.cnrad.dev/api/998278781804490752" alt="Discord Presence" align="center">
 		</a>
     </td>
   </tr>
