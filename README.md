@@ -12,7 +12,7 @@
 
 ---
 # 💫 About Me:
-🔭  I’m currently working on enhancing my full-stack web development skills and building a portfolio of diverse projects.<br>👯  I’m looking to collaborate on open-source web development projects where I can contribute my expertise and learn from other developers in the community.<br>🤝 I’m looking for help with mastering advanced front-end technologies and design principles to create more visually appealing and user-friendly web applications.<br>🌱 I’m currently learning to improve my knowledges<br>💬 Ask me about web development best practices, responsive design, database management, API integration, or anything related to creating web applications from scratch.<br>⚡ Fun fact: When I'm not coding, I love exploring new hiking trails and trying out different cuisines from around the world! 🌄🍔
+🔭  I’m currently working on enhancing my full-stack web development skills and building a portfolio of diverse projects.<br>👯  I’m looking to collaborate on open-source web development projects where I can contribute my expertise and learn from other developers in the community.<br>🤝 I’m looking for help with mastering advanced front-end technologies and design principles to create more visually appealing and user-friendly web applications.<br>🌱 I’m currently learning to improve my knowledges.<br>💬 Ask me about web development best practices, responsive design, database management, API integration, or anything related to creating web applications from scratch.<br>⚡ Fun fact: When I'm not coding, I love exploring new hiking trails and trying out different cuisines from around the world! 🌄🍔
 
 
 ## 🌐 Socials:
