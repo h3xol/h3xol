@@ -1,6 +1,6 @@
 <div align="center">
 
-# h3xol
+## h3xol
 
 Full-stack developer. React on the front, Node and Postgres behind it, shipped on Vercel.
 
